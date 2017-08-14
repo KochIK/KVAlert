@@ -1,5 +1,5 @@
 # KVAlert
-Easy implementation of alerts - KVTimer
+Easy implementation of alerts - KVAlert
 
 ## Installation
 
